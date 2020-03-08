@@ -16,8 +16,6 @@ echo Un momento..
 echo Un momento...
 pause
 del /s/q %temp% 
-
-wait (3)
 cls
 echo Archivos Temporales eliminados. Presione cualquier tecla para salir.
 pause >nul
